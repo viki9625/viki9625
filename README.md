@@ -34,5 +34,5 @@ Hi, I'm **Vikram Roy**, a passionate **DevOps Engineer** from India 🇮🇳.
 ---
 
 📫 **Let's Connect**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/vikramroy)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/vikramroy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vikram-roy-devops/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/viki9625)
